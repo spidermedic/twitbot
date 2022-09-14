@@ -5,7 +5,7 @@ share/
 lib/
 bin/
 *.log
-*.ipynb_checkpoints
+*.ipynbgit
 *.cfg
 auth.py 
 config.py 
