@@ -1,0 +1,11 @@
+ipynb_checkpoints/
+__pycache__/
+include/
+share/
+lib/
+bin/
+*.log
+*.ipynb_checkpoints
+*.cfg
+auth.py 
+config.py 
