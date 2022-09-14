@@ -5,7 +5,7 @@ share/
 lib/
 bin/
 *.log
-*.ipynbgit
+*.ipynb
 *.cfg
 auth.py 
 config.py 
